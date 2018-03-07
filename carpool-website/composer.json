@@ -1,0 +1,6 @@
+{
+	"require": {
+		"jublonet/codebird-php": "dev-develop",
+		"kartik-v/bootstrap-star-rating": "@dev"
+	}
+}
